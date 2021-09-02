@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582955715682",
+    "project_id": "motatlbat-app",
+    "storage_bucket": "motatlbat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582955715682:android:ef5f89c2fc986023a1553b",
+        "android_client_info": {
+          "package_name": "com.macomp.motatlabat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582955715682-aq8keq2k7481it47r8g437svgpbkamd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyBWwFKW0PxZZtdTgGjWLDY6c0MlcJSdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582955715682-aq8keq2k7481it47r8g437svgpbkamd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
