@@ -9,9 +9,13 @@
   <img src="assets/images/logoOurs.png" alt="app logo" width="200"/>
 </p>
 
-![Mot_2](https://github.com/user-attachments/assets/bf0e146d-fd18-40db-90aa-9acc6600297b)
-![Mot_1](https://github.com/user-attachments/assets/5aaaad2b-ce62-44c1-aba0-33ea77b516af)
-![Mot_3](https://github.com/user-attachments/assets/3b89d695-74f8-42a6-8acd-7eb30475c654)
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bf0e146d-fd18-40db-90aa-9acc6600297b" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/5aaaad2b-ce62-44c1-aba0-33ea77b516af" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/3b89d695-74f8-42a6-8acd-7eb30475c654" width="300"></td>
+  </tr>
+</table>
 
 A comprehensive Flutter application to help university students access academic resources and services. This app provides features like a GPA calculator, course materials, important links, and quizzes to assist students in their studies.
 
