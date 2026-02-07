@@ -4,9 +4,14 @@
 ![GitHub stars](https://img.shields.io/github/stars/abu-saif/motatlabat_rafined?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/abu-saif/motatlabat_rafined?style=social)
 
+
 <p align="center">
   <img src="assets/images/logoOurs.png" alt="app logo" width="200"/>
 </p>
+
+![Mot_2](https://github.com/user-attachments/assets/bf0e146d-fd18-40db-90aa-9acc6600297b)
+![Mot_1](https://github.com/user-attachments/assets/5aaaad2b-ce62-44c1-aba0-33ea77b516af)
+![Mot_3](https://github.com/user-attachments/assets/3b89d695-74f8-42a6-8acd-7eb30475c654)
 
 A comprehensive Flutter application to help university students access academic resources and services. This app provides features like a GPA calculator, course materials, important links, and quizzes to assist students in their studies.
 
@@ -14,7 +19,6 @@ A comprehensive Flutter application to help university students access academic 
 
 - **Onboarding:** A welcoming introduction to the app's features.
 - **Dashboard:** A central hub for accessing all the app's functionalities.
-- **GPA Calculator:** Easily calculate your grade point average.
 - **University Resources:** Access important links, course materials, and previous exams.
 - **Quizzes:** Test your knowledge with various quizzes related to your courses.
 - **Drawer Navigation:** A convenient side menu for quick access to different sections.
